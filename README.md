@@ -22,7 +22,7 @@ deactivate
 
 #### create setup.py
 
-#### create src/\_\_init.py
+#### create src folder
 
 #### create requirement.txt for all libraries
 
