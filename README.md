@@ -26,6 +26,6 @@ deactivate
 
 #### create requirement.txt for all libraries
 
-#### run:- pip install -r requirenments.txt
+#### run:- pip install -r requirements.txt
 
 #### for building project build
